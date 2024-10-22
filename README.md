@@ -52,8 +52,8 @@ Il progetto include una **dashboard interattiva in Power BI**, che consente di v
 
 ### Link alla dashboard e al progetto
 
-- **[PDF della Dashboard Power BI](https://github.com/username/project-name/PowerBI-Dashboard.pdf)** 
-- **[Link al Progetto su GitHub](https://github.com/username/project-name)** 
+- **[PDF della Dashboard Power BI](https://github.com/mpizx/CAPSTONE_DAPT0224/blob/main/Dashboard_PowerBI_Capstone_Data_Analyst.pdf)** 
+- **[Link al Progetto su GitHub](https://github.com/mpizx/CAPSTONE_DAPT0224/blob/main/Dashboard_PowerBI_Capstone_Data_Analyst.pbix)** 
 
 ## Credits
 
@@ -62,4 +62,4 @@ Il progetto include una **dashboard interattiva in Power BI**, che consente di v
   
 ## License
 
-Questo progetto è distribuito sotto la licenza **GNU General Public License v3.0**. Consulta il file [LICENSE]([https://github.com/username/project-name/blob/main/LICENSE](https://github.com/mpizx/CAPSTONE_DAPT0224/blob/main/LICENSE)) per i dettagli.
+Questo progetto è distribuito sotto la licenza **GNU General Public License v3.0**. Consulta il file [LICENSE](https://github.com/mpizx/CAPSTONE_DAPT0224/blob/main/LICENSE) per i dettagli.
